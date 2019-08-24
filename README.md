@@ -1,4 +1,4 @@
 # Volatility
 
-# General Notion
-  "High Risk, High Return" == "Large Variance enables High Return"
+### General Notion
+  - "High Risk, High Return" == "Large Variance enables High Return"
